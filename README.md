@@ -2,6 +2,7 @@
 ### An Android app for automatic form filling for Gujarat Government Jobs Application website. It saves time by auto-filling most details in the form and remembers last five job advertisement numbers.
 
 ★ Play Store Downloads: 7000+
+
 ★ Play Store Rating: 4.7 (147 Ratings)
  
 * Play Store URL: https://play.google.com/store/apps/details?id=in.aternal.ojasautofill
