@@ -15,5 +15,5 @@
 ### Screenshots
 
 ![home](screenshots/home.jpg)
-![adv](screenshots/adv.jp)
+![adv](screenshots/adv.jpg)
 ![form](screenshots/form.jpg)
