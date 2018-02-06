@@ -12,7 +12,7 @@
 * Tools and OS: Android Studio, Firebase, Admob, Ubuntu
 * Platform: Android 4.0+
 * Modules: MyDetails, WebViewModifier, JavaScriptCode
-* Lines of Code: 26121
+* Lines of Code: 2284
 
 ### Screenshots
 
